@@ -1,0 +1,31 @@
+body{
+      font-family: 'Poppins', sans-serif;
+}
+h1{
+      font-size: 50px;
+}
+.rong{
+      color: orange;
+}
+section{
+      display: flex;
+}
+.port{
+      width: 100%;
+      padding-left: 5%;
+      
+}
+
+.port img{
+      width: 50%;
+      
+
+}
+
+
+.button {
+text-decoration: none;
+
+
+   
+}
